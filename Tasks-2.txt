@@ -1,0 +1,3 @@
+if purchased from alternate store, can prove you own such product through a hash
+
+support to update log https://armaldio.itch.io/gamepad-rumble/devlog/28820/update-v11

@@ -1,0 +1,1 @@
+if purchased from alternate store, can prove you own such product through a hash
