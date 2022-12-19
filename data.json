@@ -1,6 +1,6 @@
 {
 	"list": [{
-		"gamepad_haptics": "",
-	        "JSON_plus_plus": ""
+		"gamepad_haptics": "https://github.com/FloflisPull/gamepad_haptics/",
+	        "JSON_plus_plus": "https://github.com/FloflisPull/JSON_plus_plus/"
 	}]
 }
